@@ -1,4 +1,6 @@
-The live website for this implementation can be found here: [Pig-game](https://pig-game-rishabh.netlify.app/)
+🟢The live website for this implementation can be found here: [Pig-game](https://pig-game-rishabh.netlify.app/)
+
+# Details:
 
 The pig game is a two-player game and can be played in the following way:
 
