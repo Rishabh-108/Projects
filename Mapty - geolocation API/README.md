@@ -1,3 +1,6 @@
+
+The live website for this project can be found here: [Mapty](mapty-rishabh.netlify.app) 
+
 This is Mapty, an interactive map-based workout tracker that utilizes Leaflet.js for rendering maps and the geolocation API.
 
 Goal: This application allows cyclists and runners to view their workout history and record corresponding details. An interactive map and a workout sidebar are the core components of this application. The application provides an intuitive experience.
@@ -26,4 +29,3 @@ Highlights:
 2. Utilizes some of the cutting-edge features of JavaScript such as private class fields and protected methods.
 3. Project uses npm packages.
 
-The live website for this project can be found here: [Mapty](mapty-rishabh.netlify.app) 
