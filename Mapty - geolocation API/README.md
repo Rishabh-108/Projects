@@ -26,4 +26,4 @@ Highlights:
 2. Utilizes some of the cutting-edge features of JavaScript such as private class fields and protected methods.
 3. Project uses npm packages.
 
-The live website for this project can be found here: mapty-rishabh.netlify.app
+The live website for this project can be found here: [Mapty](mapty-rishabh.netlify.app) 
