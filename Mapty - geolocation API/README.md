@@ -26,7 +26,7 @@
 # In addition to the main project features introduced in the course, I also implemented the following:
 
 1. The user can clear out all the registered workouts in the sidebar by clicking the '🧹' icon on the top right corner of the sidebar window.
-2. I integrated the Dragula API via npm, to allow user easy and intuitive drag and drop sorting of workouts within its parent container. Thus, users can sort or order their workouts in which order they like. The user defined order is also stored in the localStorage and retrieved and applied upon start.
+2. I integrated the Dragula API via npm, to allow user easy and intuitive drag and drop sorting of workouts within its parent container. Thus, users can sort or order their workouts in which order they like. 
 3. Users can also delete a given workout by pressing the '❌' icon on the top right corner of the workout window. Once deleted, the workout is removed from localStorage and map.
 
 # Run
