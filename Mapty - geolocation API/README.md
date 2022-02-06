@@ -5,6 +5,12 @@ This is Mapty, an interactive map-based workout tracker that utilizes Leaflet.js
 
 Goal: This application allows cyclists and runners to view their workout history and record corresponding details. An interactive map and a workout sidebar are the core components of this application. The application provides an intuitive experience.
 
+Highlights:
+
+1. I organized the project with real world project architecture in mind.
+2. Utilizes some of the cutting-edge features of JavaScript such as private class fields and protected methods.
+3. Project uses npm packages.
+
 A user's workflow would be as follows:
 
 1. Interact with the map, that is, zoom in/zoom out, move around the map by grab and dragging and also click the map.
@@ -22,10 +28,4 @@ In addition to the main project features introduced in the course, I also implem
 1. The user can clear out all the registered workouts in the sidebar by clicking the '🧹' icon on the top right corner of the sidebar window.
 2. I integrated the Dragula API via npm, to allow user easy and intuitive drag and drop sorting of workouts within its parent container. Thus, users can sort or order their workouts in which order they like. The user defined order is also stored in the localStorage and retrieved and applied upon start.
 3. Users can also delete a given workout by pressing the '❌' icon on the top right corner of the workout window. Once deleted, the workout is removed from localStorage and map.
-
-Highlights:
-
-1. I organized the project with real world project architecture in mind.
-2. Utilizes some of the cutting-edge features of JavaScript such as private class fields and protected methods.
-3. Project uses npm packages.
 
