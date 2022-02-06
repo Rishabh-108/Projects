@@ -1,5 +1,5 @@
 
-The live website for this project can be found here: [Mapty](mapty-rishabh.netlify.app) 
+The live website for this project can be found here: [Mapty](https://mapty-rishabh.netlify.app/) 
 
 This is Mapty, an interactive map-based workout tracker that utilizes Leaflet.js for rendering maps and the geolocation API.
 
