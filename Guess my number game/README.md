@@ -1,4 +1,6 @@
-The live implementation of the project can be found here: [Guess-my-number](https://guess-my-num-rishabh.netlify.app/)
+🟢The live implementation of the project can be found here: [Guess-my-number](https://guess-my-num-rishabh.netlify.app/)
+
+# Details:
 
 The guess my number game can be played in the following way:
 
